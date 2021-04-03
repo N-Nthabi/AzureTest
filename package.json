@@ -1,0 +1,26 @@
+{
+  "name": "npmod",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:N-Nthabi/AzureTest.git"
+  },
+  "keywords": [
+    "lab2"
+  ],
+  "author": "Nthabi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/N-Nthabi/AzureTest/issues"
+  },
+  "homepage": "https://github.com/N-Nthabi/AzureTest#readme",
+  "dependencies": {
+    "express": "4.17.1"
+  }
+}
